@@ -13,7 +13,9 @@ Databricks is a unified, cloud-based data and AI platform that merges the scale 
 - MLflow: An open-source tool to manage, test, and deploy machine learning models.
 - Unity Catalog: A unified governance and security system for data and AI assets across teams
 
+----
   
+
  ----
 Free Edition: Includes one serverless workspace (no classic compute clusters) with daily usage limits. It is excellent for learning, prototyping, and building the core logic (Python notebooks, basic ML models). However, it locks certain enterprise features and restricts heavy compute. 
 
