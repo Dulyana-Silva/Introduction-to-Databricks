@@ -18,7 +18,9 @@ Databricks is a unified, cloud-based data and AI platform that merges the scale 
 <img width="848" height="354" alt="image" src="https://github.com/user-attachments/assets/823b0ec9-e142-40a9-9b1e-ffa0f6c10e36" />
 
 
-PySpark is the official Python API for Apache Spark, an open-source, distributed computing framework designed for large-scale data processing and big data analytics. Databricks introduced a major product called Lakebase, which is a fully managed PostgreSQL database built directly into the Databricks ecosystem
+### PySpark is the official Python API for Apache Spark, an open-source, distributed computing framework designed for large-scale data processing and big data analytics. 
+
+### Databricks introduced a major product called Lakebase, which is a fully managed PostgreSQL database built directly into the Databricks ecosystem
  ----
 
  
