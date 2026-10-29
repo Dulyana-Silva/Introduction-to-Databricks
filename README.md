@@ -45,6 +45,8 @@ Paid (Premium/Enterprise): Unlocks classic clusters (for heavy processing), Unit
 
 Cost Optimization Tip: In the paid version, use Serverless compute for scheduled tasks (it auto-scales to zero when idle) and only spin up clusters when actively developing.
 
+---- 
+A Databricks cluster is a set of cloud virtual machines (VMs) that combine compute power and configurations to run data engineering, data science, and analytics workloads using Apache Spark
 
 ----
 Languages That Support Apache Spark
